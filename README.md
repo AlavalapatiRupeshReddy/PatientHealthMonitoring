@@ -5,11 +5,17 @@ This project demonstrates how to monitor heart rate and temperature using sensor
 # Components Used
 
 1)Pulse Sensor
+
 2)LM35 Temperature Sensor
+
 3)LED with Resistor
+
 4)16x2 LCD Display
+
 5)Arduino Uno
+
 6)ESP32 Development Board
+
 # Project Overview
 
 1)Pulse Sensor: Measures heart rate, connected to Arduino.
