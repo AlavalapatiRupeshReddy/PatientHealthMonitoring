@@ -2,8 +2,8 @@
 This project demonstrates how to monitor heart rate and temperature using sensors and visualize the data in real-time using ThingSpeak. The project uses an Arduino and an ESP32 for data collection, transfer, and visualization.
 
 # Components Used
-Pulse Sensor
-LM35 Temperature Sensor
+1)Pulse Sensor
+2)LM35 Temperature Sensor
 LED with Resistor
 16x2 LCD Display
 Arduino Uno
