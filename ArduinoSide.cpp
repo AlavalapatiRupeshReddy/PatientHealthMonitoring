@@ -126,4 +126,4 @@ void sendDataToESP32(int bpm, float temp) {
   Serial.print("Temp:");
   Serial.println(temp);
   delay(1000); // Adjust delay based on ESP32 read rate
-}
+}   //adjust the delay based on ESP32 rate
