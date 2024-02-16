@@ -117,7 +117,7 @@ void updateLCD(int bpm, float temp) {
   lcd.setCursor(0, 1);
   lcd.print("Temp: ");
   lcd.print(temp);
-  lcd.print(" F");
+  lcd.print(" F");//Temperature In Farenheit
 }
 
 void sendDataToESP32(int bpm, float temp) {
